@@ -5,4 +5,4 @@ Make the downloaded script executable `chmod +x /path/to/installer-script/instal
 
 Run the script. `./installer.sh`
 Contributors-
-devprabal,absaw
+absaw, devprabal
